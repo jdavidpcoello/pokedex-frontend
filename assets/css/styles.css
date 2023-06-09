@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu-icons{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#header{
+    margin: 0px;
+    position:absolute;
+    left:15px;
+}
